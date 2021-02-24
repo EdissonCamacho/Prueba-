@@ -55,6 +55,7 @@
             this.txtPara = new System.Windows.Forms.TextBox();
             this.lblcopia = new System.Windows.Forms.Label();
             this.lblPara = new System.Windows.Forms.Label();
+            this.button4 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.grInicioSesion.SuspendLayout();
             this.grpAjustes.SuspendLayout();
@@ -330,11 +331,21 @@
             this.lblPara.TabIndex = 0;
             this.lblPara.Text = "Para:";
             // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(425, 500);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(75, 23);
+            this.button4.TabIndex = 3;
+            this.button4.Text = "button4";
+            this.button4.UseVisualStyleBackColor = true;
+            // 
             // frmEnvioCorreo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(878, 584);
+            this.Controls.Add(this.button4);
             this.Controls.Add(this.grpInterfaz);
             this.Controls.Add(this.grInicioSesion);
             this.Controls.Add(this.panel1);
@@ -382,5 +393,6 @@
         private System.Windows.Forms.TextBox txtHost;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button button4;
     }
 }
