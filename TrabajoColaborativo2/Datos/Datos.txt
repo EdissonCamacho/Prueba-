@@ -1,0 +1,12 @@
+﻿------------------------------------------------------------
+Documento: 123123 / Nombres: asdasd
+Apellidos: asdasd / Fecha nacimiento: 10-11-2020
+Genero: Femenino / Email: dadad / Celular: 234234
+------------------------------------------------------------
+Documento: 324234 / Nombres: fsfs
+Apellidos: sfsf / Fecha nacimiento: 10-11-2020
+Genero: Masculino / Email: sdfsf / Celular: 345345
+------------------------------------------------------------
+Documento: 54654654 / Nombres: hggfhgfhgfghf
+Apellidos: ghhghghjghghg / Fecha nacimiento: 19-11-2020
+Genero: Masculino / Email: dsgfsdgdfhhgh / Celular: 4654654654
